@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ug42wb80b-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ug42wb80b-dotnet-basic
